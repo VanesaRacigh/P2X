@@ -1,7 +1,5 @@
 # ................................ P2X  ........................................
 
-Archivos adicionales en la carpeta P2X:
-
 -cilindro_contador.sh
 -coordenadas_xyz.sh
 -procesamiento_hole.sh
